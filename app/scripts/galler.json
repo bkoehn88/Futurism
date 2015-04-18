@@ -1,0 +1,56 @@
+var gallery = '{"artists" :[ '+'
+				{"name":"Giacomo Balla", 
+				"text":"Giacomo Balla (1871-1958) was an art teacher who went on to become one of the most influential members of the futurist movement in Italy. He was a respected artist prior to his involvement in futurism, attending the University of Turin and working in Rome as a portrait painter, illustrator, and caricaturist. He taught Divisionist techniques to Umberto Boccioni and Gino Severini, who also became involved with futurism themselves. He was deeply inspired by the writings of Filippo Tommaso Marinetti, and was signatory to his Futurist Manifesto. During World War I, his studio became a gathering place for young artists. His most famous painting is Dynamism of a Dog on a Leash, completed in 1912. He died in Rome at the age of 86.", 
+				 "image2":"images/balla3.jpg"},'+
+				
+'
+				{"name":"Umberto Boccioni", 
+				"text":"In his rather short life, Umberto Boccioni (1882-1916) managed to position himself as one of the most active and most prolific artists in the futurist movement in Italy. He was the student of Giacomo Balla, and a friend of Gino Severini, both of whom were influential artists in the movement. Under Balla, he studied divisionist techniques. He then dabbled in the impressionist and post-impressionist styles in Paris for a while. After this, he visited Russia for a few months, getting a good glimpse at all the civil unrest that was going on in Russia at that time. After returning to italy in 1907, he studied drawing at the Accademia di Belle Arti in Venice. It was in 1907 when he began to align himself with the futurist style, after having read the Futurist Maifesto of Filippo Tommaso Marinetti. In 1912, he transitioned his focus from painting to sculpture, after visiting the studios of various sculptors in Paris. In 1916, he was drafted into the Italian army for World War I. It was in this year he passed away after being trampled by his horse in an army training accident at the age of 33.", 
+				 "image2":"images/balla3.jpg"},'+'
+
+                {"name":"Gino Severini", 
+				"text":"Gino Severini (1883-1966) was one of the leading Italian painters of the Futurist movement. In addition to traditional oil on canvas painting, Severini also dabbled in other media, including fresco and mosaic. As a youth, he attended Scuola Tecnica, a school in Cortona, Italy. At the age of 15, he stole exam papers at school, which led him to be expelled from the entire Italian school system. With sponsorship from a patron, Severini attended 2 art schools before his patron cut his financial assistance. He met Umberto Boccioni in 1900, and the two of them together learned divisionist techniques from Giacomo Balla. Both Balla and Boccioni also went on to become very influential members of the futurist movement. He began contributing to the futurist style around 1910, but switched to a more neo-classical style around 1916. Around 1940, he changed styles yet again, this time to a semi-abstract one, before finally returning to futurist subject matter around 1950. He died in Paris at the age of 82.", 
+				 "image2":"images/balla3.jpg"},'+
+'
+
+                {"name":"Carlo Carrà", 
+				"text":"Carlo Carrà (1881-1966) was one of the leading Italian painters of the Futurist movement. At the young age of 12, Carrà left his homoe of Quargento to become a mural decorator. In 1899, he visited Paris, where he decorated pavillions at the Exposition Universelle, where he became influenced by the French art of the day. After this, he interestingly spent some time in London, in communication with exiled Italian anarchists. He returned to Italy in 1901. He enrolled in the Brera Academy in Milan, where he studied under a painter named Cesare Tallone. Carràs Futurist style ends around of World War I, where his focus turned to what he called metaphysical still lifes. Still, he is best known for his involvement with Futurism, and his work The Funeral of the Anarchist Galli is the painting he is most remembered for. It displays his style and his anarchist ties to a tee. He died in Milan at the age of 84.", 
+				 "image2":"images/balla3.jpg"},'+
+				
+                {"name":"Natalia Goncharova", 
+				"text":"Natalia Goncharova (1881-1962) was an influential painter to the Cubo-Futurist style in Russia. She attended the Moscow School of Painting, Sculpture, and Architecture in 1898 as a sculptor, but switched to painting during the course of her education. While studying at the academy, she met fellow Cubo-Futurist artist Mikhail Larionov, with whom she started 2 major groups of artists: the Jack of Diamonds, and the Donkey's Tail. She was also a member of Der Blaue Reiter, a very influential group in the Russian avant-garde. She was also involved in illustration, costume design, and set design. She became a French citizen 1939, and died in Paris in 1962. Most of her work attributed to her Futurist style is from later on in her career. To this date, her works are some of the most expensive at auction for a female artist.",
+				 "image2":"images/balla3.jpg"},'+
+
+                {"name":"Luigi De Giudici", 
+				"text":"Luigi De Giudici (1887-1955) was a Venetian painter who is sometimes included as being involved with Italian Futurism. His work is also sometimes said to contain elements of Expressionism as well. He exhibited his works at Ca Pesaro, a palace in Venice where artists representing a wide variety of styles showcased their work. De Giudici was influenced by this stylistic melting pot, prior to his decision to quit painting in 1919 at the age of 32.",
+				 "image2":"images/balla3.jpg"},'+
+
+                {"name":"Primo Conti", 
+				"text":"Primo Conti (1900 - 1988) was an influential artist in Italian Futurism. He was a painter, a musician, and a poet. Born and raised in Florence, Conti was a prodigious youth. He began to show artistic talent between the ages of 8 and 9. At the age of 17, he met Futurist Manifesto author Filippo Tommasso Marinetti in Naples, and Futurist painter Giacomo Balla in Rome. A lot of Conti's contributions were literary, but he also produced Futurist paintings and drawings between the years of 1917 and 1919. Through the 1920s, Conti explored many different artistic styles. The 1930s were a difficult time for Conti, as he opposed the Fascist government in place at the time, refusing to join the party's associated art group, the Novecento Italiano. This led to him not receive many work prospects in this time, so he spent his days designing stage sets for an opera house for the Maggio Musicale Fiorentino. In the 1940s, he once again began working with Futurist subjects and experiments.",
+				 "image2":"images/balla3.jpg"},'+
+
+                {"name":"Enrico Prampolini", 
+				"text":"Enrico Prampolini (1894 - 1956) was a Futurist painter, scenographer, and sculptor from Italy. He played a role in the design of the Exhibition of the Fascist Revolution. His painting is largely considered to be abstract or quasi-abstract. He was educated at the Academy of Fine Arts in Rome. He was known to be in contact with some of the key driving figures of the avant-garde art scene of the early 1900s, including Pablo Picasso, Piet Mondrian, Wassily Kandinsky, and Jean Cocteau. His works in both set design and abstract art give him a unique place in the history of European art.",
+				 "image2":"images/balla3.jpg"},'+
+
+				{"name":"Fortunato Depero", 
+				"text":"Fortunato Depero (1892 - 1960) was an Italian Futurist sculptor, painter, illustrator, and writer. Deperto grew up in the town of Rovereto, which is where he first began to exhibit his art while working as an apprentice to a marble worker. In 1913, he took a trip to Florence, where he discovered the Futurist publications of writer Fillippo Tommasso Marinetti. He traveled to Rome the following year, where he met Futurist painter Giacomo Balla. With Balla, he wrote the Futurist Reconstruction of the Universe, a publication expanding on the ideas of some of the other Futurist ideologists. He founded the House of Futurist Art in Rovereto, which produced toys, tapestries, and furniture in the Futurist style. In 1928, Depero moved to New York City, where he worked for 2 years. He returned to Italy in 1930. Depero continued to paint in the 30s and 40s, but his Futurist work had begun its decline, due to the style falling out of favor. In 1959, he opened his own gallery. Due to complications from his diabetes, he died at age 68",
+				 "image2":"images/balla3.jpg"},'+
+				 
+				 {"name":"Luigi Russolo", 
+				"text":"Luigi Russolo (1885-1947) was an Italian Futurist painter and musician. While he is grouped among the Futurist painters, his main contribution comes from his innovation of what he called noise art. He viewed traditional music as confining, and that the Industrial Revolution brought man the appreciation of more complex sounds. To this end, he was known for creating his own unique noise-making instruments. He is considered the first major theorist of electronic music.",
+				 "image2":"images/balla3.jpg"},'+
+				 
+				  {"name":"Mikhail Larionov", 
+				"text":"Mihkhail Larionov (1881-1964) was an avant-garde Russian painter involved with Cubo-Futurism. He was born in Tiraspol, Russia, and entered the Moscow School of Painting, Sculpture, and Architecture in 1898. He was suspended 3 times during the course of his attendance there. In 1990, he met fellow Russian avant-garde painter Natalia Goncharova, with whom he developed a lifelong friendship. With Goncharova, he co-founded 2 major groups of artists, the Jack of Diamonds and the Donkey's Tail. Larionov dabbled in many styles, including Impressionism, Post-Impressionism, Cubo-Futurism, and Rayonism - a style of his own invention. Rayonism was among the first styles of abstract art to emerge in Russia. He died in Paris at the age of 82.",
+				 "image2":"images/balla3.jpg"},'+
+				 
+				 				 
+				  {"name":"Olga Rozanova", 
+				"text":"Olga Rozanova (1886-1918) was a Russian avant-garde artist. She painted in the Suprematist, Neo-Primitivist, and Cubo-Futurist styles. Rozanova was born in the small town of Melenki. She gained her education at the Stroganov School of Applied Art. Around 1911, she was involved with a group caled the Soyuz Molodyozhi, or Union of the Youth. In 1912, she started friendships with the Futurist poets Velimir Khlebnikov and Aleksei Kruchenykh, the latter of which she later marries in 1916. Around this time, she also joins the art group Supremus, started by famed artist Kazimir Malevich. She died of diptheria in 1918, at the age of 32.",
+				 "image2":"images/balla3.jpg"},'+
+				 
+				 {"name":"Vladimir Boranov-Rossine", 
+				"text":"Boranov-Rossine (1888-1944) was a Russian-French Cubo-Futurist painter and inventor. ",
+				 "image2":"images/balla3.jpg"},'+
+				 
