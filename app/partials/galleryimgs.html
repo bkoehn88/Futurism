@@ -1,0 +1,17 @@
+<!--Populating the gallery view with the values set in function setSelected. See apps.js-->
+
+<div class = "container-fluid col-xs-12">
+<div class="jumbotron">
+    <h1 id="galleryimgTitle">{{selectedName}}</h1>
+
+
+	<carousel id="galleryCarousel">
+      <slide ng-repeat="image in selectedImages">
+        <img ng-src="{{image}}">
+      </slide>
+    </carousel>
+
+
+    <p id="galleryimgText">{{selectedText}}</p>
+</div>
+</div>
