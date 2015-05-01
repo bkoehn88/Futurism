@@ -1,0 +1,28 @@
+<!--Gallery Menu view -->
+
+<div class = "container-fluid col-lg-12">
+	<div class="jumbotron">
+    <h1>Welcome to the Gallery!</h1>
+    </br>
+    <img src="images/coney.jpg" alt="Natalia Goncharova - Cyclist" class="img-responsive" id="aboutCyclist">
+    </br>
+    </br>
+    <div id="galleryText">
+    <p>Click on any of the artist names below to read more about an artist and view a gallery of their work. You can filter the artists by name using the search field below.</p> 
+         <div class="glyphicon glyphicon-search"></div>
+
+         <!-- Here, an ng-repeat is declared. It is populated with names from the http-requested galler.json file. When one is clicked, the view is populated with the corresponding information and images of that particular artist. ng-model searchBar.name is a text-input. It is used to filter the names. The search bar in the navbar in index.html updates this model and routes the user here. -->
+        <div class="input-group" "container-fluid col-lg-6" id="searchBar">
+  <input ng-model="searchBar.name" class="form-control" placeholder="Browse artists" aria-describedby="basic-addon2">
+
+
+</div>
+        <ul ng-repeat="artist in artists | orderBy: 'name' | filter: searchBar">
+           <a ng-href="#galleryimgs"> <li  ng-click="setSelected(artist.name, artist.images, artist.text)" id = "galList">
+                {{artist.name}}
+        </a>
+        </li>
+        </ul>
+    </div>
+    </div>
+    </div>

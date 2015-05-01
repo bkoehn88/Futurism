@@ -1,12 +1,14 @@
-   <div class = "container-fluid col-lg-12">
+  <!--View for the home page. Includes navigation and a boostrap carousel --> 
+
+  <div class = "container-fluid col-xs-12">
 	<div class="jumbotron">
     	<h1>Welcome to LearnFuturistArt!</h1></br>
     
     
-      <!--  Carousel - consult the Twitter Bootstrap docs at 
-      http://twitter.github.com/bootstrap/javascript.html#carousel -->
-    <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-      <!-- Indicators -->
+    <!--  Carousel - consult the Twitter Bootstrap docs at 
+    http://twitter.github.com/bootstrap/javascript.html#carousel -->
+  <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
       <ol class="carousel-indicators">
         <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
         <li data-target="#carousel-example-generic" data-slide-to="1"></li>
@@ -38,17 +40,18 @@
     </br>
     </br>
     Or browse a <a href="#gallery">gallery of futurist artists and paintings.</a>
-   </br>
-   </h4>
+    </br>
+    </h4>
 
-    </div>
+</div>
     
+  </div>
+
+    <!--Setting carousel interval-->
     
-    </div>
-    
-    <script>
-		  $(document).ready(function(){
-			$('.carousel').carousel({
-				interval: 3500});
-		  });
-	</script>
+<script>
+	$(document).ready(function(){
+		$('.carousel').carousel({
+			interval: 2500});
+		});
+</script>
